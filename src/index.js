@@ -1,3 +1,3 @@
-export { Container } from './utils/Container'
-export { Sprite } from './utils/Sprite'
-export { Text } from './utils/Text'
+export { Container } from './Container'
+export { Sprite } from './Sprite'
+export { Text } from './Text'
