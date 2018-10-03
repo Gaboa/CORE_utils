@@ -1,0 +1,20 @@
+{
+  "name": "CORE_utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaboa/CORE_utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaboa/CORE_utils/issues"
+  },
+  "homepage": "https://github.com/Gaboa/CORE_utils#readme",
+  "dependencies": {
+    "pixi.js": "^4.8.2"
+  }
+}
